@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="you_do_not_have_an_account_create_it_now">You do not have an account? Create it now.</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show password</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="passwordSignUp">Password</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="show_passwordreg">Show password</string>
+    <string name="passwordSignIn">Password</string>
+    <string name="txtMes">TextView</string>
+</resources>
