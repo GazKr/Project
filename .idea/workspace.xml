@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ChangeListManager">
+    <list default="true" id="dd9fbca5-3ecc-4efa-8c34-d9034432708d" name="Default Changelist" comment="" />
+=======
+>>>>>>> master
   <component name="AndroidLayouts">
     <shared>
       <config />
@@ -10,6 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667393b2-0665-47d0-a346-bbd2d26288c4" name="Default Changelist" comment="" />
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +35,28 @@
     </system>
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <session id="188960994">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="171" />
+    <option name="y" value="40" />
+    <option name="width" value="1750" />
+    <option name="height" value="953" />
+=======
+>>>>>>> master
     <session id="-471906143">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -176,12 +209,30 @@
     <option name="y" value="10" />
     <option name="width" value="1750" />
     <option name="height" value="955" />
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+=======
+>>>>>>> master
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -237,6 +288,10 @@
       <recent name="D:\Project\MyApplication2\app\src\main\res\layout" />
       <recent name="D:\Project\MyApplication2\app\src\main\java\com\example\myapplication" />
     </key>
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -250,13 +305,27 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Android App.Logowanie">
+=======
+<<<<<<< HEAD
+  <component name="RunManager">
+=======
+  <component name="RunManager" selected="Android App.Logowanie">
+>>>>>>> master
+>>>>>>> master
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+=======
+>>>>>>> master
     <configuration name="Logowanie" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="app" />
       <option name="DEPLOY" value="true" />
@@ -311,6 +380,10 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -363,6 +436,19 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd9fbca5-3ecc-4efa-8c34-d9034432708d" name="Default Changelist" comment="" />
+      <created>1554744610297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554744610297</updated>
+=======
+>>>>>>> master
     <list>
       <item itemvalue="Android App.app" />
       <item itemvalue="Android App.Logowanie" />
@@ -383,14 +469,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555074024641</updated>
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+<<<<<<< HEAD
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+=======
+<<<<<<< HEAD
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.2966443" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+>>>>>>> master
+>>>>>>> master
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -398,6 +499,18 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.293617" />
+=======
+>>>>>>> master
       <window_info anchor="bottom" id="Run" weight="0.32907802" />
       <window_info anchor="bottom" id="Logcat" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -407,11 +520,21 @@
       <window_info anchor="bottom" id="Terminal" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32907802" />
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    </layout>
+=======
+>>>>>>> master
       <window_info anchor="right" id="Preview" weight="0.3295302" />
     </layout>
     <layout-to-restore>
@@ -439,10 +562,19 @@
       <window_info anchor="right" id="Preview" order="4" weight="0.3295302" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout-to-restore>
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="android-designer2" />
@@ -565,4 +697,8 @@
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
 </project>
